@@ -12,6 +12,12 @@ A deep learning-based face detection and recognition pipeline using YOLO and Ins
 
 ---
 
+## 🧠 Model
+
+Google Dive Link: https://drive.google.com/drive/folders/15Ka_FNT8gvTfVnvSCAAoYakiOxFoUhly?usp=sharing
+
+---
+
 ## 🧠 Technologies Used
 
 - InsightFace
