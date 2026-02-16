@@ -28,18 +28,6 @@ Google Dive Link: https://drive.google.com/drive/folders/15Ka_FNT8gvTfVnvSCAAoYa
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/face-recognition-cctv.git
-cd face-recognition-cctv
-pip install -r requirements.txt
-
-## Run
-python main.py
-
-```
-
 ## 📊 Results
 
 The model was evaluated on train, validation, and test splits.
@@ -52,4 +40,15 @@ The model was evaluated on train, validation, and test splits.
 
 The small gap between training and validation accuracy indicates good generalization performance.
 
-```
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/face-recognition-cctv.git
+cd face-recognition-cctv
+pip install -r requirements.txt
+
+## Run
+python main.py
+
