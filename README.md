@@ -1,2 +1,30 @@
-# Face_Recogniton_CCTV
-A deep learning-based face detection (CCTV Dataset) and recognition pipeline using YOLO and InsightFace.
+# Face Recognition for CCTV Surveillance
+
+A deep learning-based face detection and recognition pipeline using YOLO and InsightFace.
+
+## 🚀 Features
+
+- Face detection using YOLO
+- Face embedding extraction with InsightFace
+- Cosine similarity matching
+- Evaluation metrics (Accuracy, Confusion Matrix)
+- Visualization support
+
+---
+
+## 🧠 Technologies Used
+
+- InsightFace
+- YOLO (Ultralytics)
+- OpenCV
+- Scikit-learn
+- PyTorch
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/face-recognition-cctv.git
+cd face-recognition-cctv
+pip install -r requirements.txt
