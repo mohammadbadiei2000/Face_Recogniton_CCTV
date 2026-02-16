@@ -37,3 +37,20 @@ pip install -r requirements.txt
 
 ## Run
 python main.py
+
+```
+
+## 📊 Results
+
+The model was evaluated on train, validation, and test splits.
+
+| Dataset | Accuracy |
+|----------|----------|
+| Train    | 87.15%   |
+| Validation | 87.31% |
+| Test     | 86.36%   |
+
+The small gap between training and validation accuracy indicates good generalization performance.
+
+```
+
