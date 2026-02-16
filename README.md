@@ -28,3 +28,6 @@ A deep learning-based face detection and recognition pipeline using YOLO and Ins
 git clone https://github.com/yourusername/face-recognition-cctv.git
 cd face-recognition-cctv
 pip install -r requirements.txt
+
+## Run
+python main.py
