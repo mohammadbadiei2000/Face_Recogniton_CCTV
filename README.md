@@ -45,7 +45,7 @@ The small gap between training and validation accuracy indicates good generaliza
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/face-recognition-cctv.git
+git clone https://github.com/mohammadbadiei2000/Face_Recogniton_CCTV.git
 cd face-recognition-cctv
 pip install -r requirements.txt
 
