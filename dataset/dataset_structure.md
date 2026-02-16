@@ -18,3 +18,15 @@ This project uses the following dataset structure:
 │   ├── person_2/
 │   ├── person_3/
 │   └── ...
+```
+---
+
+## 📁 dataset Link
+Google Drive Link: https://drive.google.com/drive/folders/1U20yzS_Ec5lWoImk92kK-NOGHO1zhg0H?usp=sharing
+
+---
+
+## 📁 verify_face_database Link
+Google Drive Link: https://drive.google.com/drive/folders/1tBER82Sksx8aFofudwh1MG4ktWTKYWi_?usp=sharing
+
+---
