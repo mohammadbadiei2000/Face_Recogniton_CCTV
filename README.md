@@ -53,4 +53,3 @@ The model was evaluated on train, validation, and test splits.
 The small gap between training and validation accuracy indicates good generalization performance.
 
 ```
-
