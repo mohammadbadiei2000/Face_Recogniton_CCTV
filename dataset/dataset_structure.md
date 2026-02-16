@@ -2,6 +2,9 @@
 
 This project uses the following dataset structure:
 
+## 📁 Directory Tree
+
+```bash
 ├── dataset/                        # Main dataset (train/val/test split)
 │   ├── train/
 │   ├── val/
